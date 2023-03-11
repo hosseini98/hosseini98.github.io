@@ -112,9 +112,9 @@ author:
   location         : "Toronto"
   email            :
   links:
-    - label: "h.hosseini.araz@gmail.com"
+    - label: "h_hosseini@hotmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:h.hosseini.araz@gmail.com
+      url: mailto:h_hosseini@hotmail.com
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://linkedin.com/in/hossein-h-4b18a82a/"
