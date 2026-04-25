@@ -1,0 +1,9 @@
+work_order,section,status,sla_remaining,risk,technician,revenue,overtime_cost
+WO-18492,ICP-MS,At Risk,2h 15m,High,Nakul,420,95
+WO-18501,Bulk Prep,On Track,8h 40m,Low,Ashraf,260,0
+WO-18517,IC Testing,Delayed,-1h 05m,Medium,Yassine,310,60
+WO-18526,Final QC,Ready,Complete,Low,Christine,500,0
+WO-18531,Mono Standards,On Track,5h 10m,Low,Emmanuel,280,0
+WO-18544,Multi Standards,At Risk,1h 20m,High,George,390,110
+WO-18558,Bulk Prep,Delayed,-0h 25m,Medium,Ibrahim,230,40
+WO-18563,ICP-MS,On Track,3h 55m,Low,Reneh,460,0
