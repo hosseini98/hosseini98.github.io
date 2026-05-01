@@ -1,12 +1,14 @@
 ---
 layout: archive
 permalink: /datascience/
-title: "Data Scence Posts by Tags"
+title: "Data Science Posts by Tag"
 author_profile: true
-
-header: 
+header:
     image: "/images/waterfront.jpg"
 ---
+
+Browse data science articles organized by topic. Each tag groups projects and write-ups so you can quickly find work relevant to your interests, from analytics deep dives to machine learning builds.
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
